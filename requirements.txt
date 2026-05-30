@@ -5,3 +5,4 @@ requests>=2.31.0
 aiohttp>=3.8.0
 google-adk==1.6.1
 requests
+apache-airflow
